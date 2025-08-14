@@ -1,0 +1,34 @@
+# Çekirdek Yapay Zeka/Agent çatısı
+agno==0.4.4
+
+# Yerel modeller için Ollama istemcisi
+ollama==0.3.3
+
+# Vektör veritabanı
+lancedb==0.13.0
+
+# Metin işleme / doküman yükleyicileri
+unstructured==0.15.11
+
+# Agno'nun kullandığı yerel arama motoru çekirdeği
+tantivy==0.22.0
+
+# NLP modelleri ve işlem hatları
+transformers==4.41.2
+
+# Veri ve yardımcı araçlar
+numpy==1.26.4
+pandas==2.2.2
+requests==2.32.3
+duckduckgo-search==6.1.7
+torch==2.3.1
+
+# Notebook kullanıcı deneyimi
+ipywidgets==8.1.3
+
+# Ses girdi/çıktısı (bazı modeller/işlem hatları için)
+soundfile==0.12.1
+
+# Web API (isteğe bağlı; sabit sürümle eklendi)
+fastapi==0.111.1
+uvicorn==0.30.3
