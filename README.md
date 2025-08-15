@@ -190,6 +190,11 @@ pip install -r requirements.txt
 
 ---
 
+## Demo Video Linki
+https://drive.google.com/file/d/1CdBZKJCt43ZpIH3Ch3tsiPoUMVLtwvfV/view?usp=sharing 
+
+---
+
 ## Lisans
 Bu proje, Apache-2.0 lisansını kullanır:
 
