@@ -2,7 +2,7 @@
 
 Bu repo iki farklı çalışma biçimi sunar:
 
-- Notebook ile tek dosyada deneyim: `teknofest.ipynb`
+- Notebook ile tek dosyada deneyim: `teknofest (1).ipynb`
 - Modüler Python uygulaması: `app/` klasörü üzerinden
 
 İsteyen tüm kodu notebook içinde çalıştırabilir, isteyen de modüler hale getirilmiş sürümü doğrudan komut satırından başlatabilir.
